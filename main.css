@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC&display=swap');
+
+body {
+    background-image: url('midgar.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+
+#navbar {
+    background-color: rgba(255, 255, 255,0.6);
+    width: 100%;
+    padding: 5px;
+    border: rgb(0, 0, 0) 2px solid;
+    display:flex;
+    justify-content: space-evenly;
+    font-size: 25px;
+    }
+ 
+#navbar a{
+    color:black;
+    text-decoration: none;
+}
+#navbar a:hover{
+    color:blue;
+}
+.container {
+    background-color: rgba(255, 255, 255,0.6);
+    padding: 5px;
+    border: rgb(0, 0, 0) 2px solid;
+    border-radius: 20px;
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Cormorant SC', serif;
+}
+
+p {
+    background-color: rgb(255, 255, 255,0.7);
+    border:rgb(0, 0, 0) 2px solid ;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.img1 {
+    background-color: rgba(255, 255, 255,0.0);
+    padding: 1px;
+    display:flex;
+    justify-content: center;
+    margin-right: 200px;
+}
+
+.link1 a {
+    background-color:rgba(255, 255, 255,0.0);
+    color: rgb(255, 255, 255);
+    border: 2px;
+    height: 15x;
+    margin:auto;
+    padding: 1px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.img2 {
+    background-color: rgba(255, 255, 255,0.0);   
+    padding:1px;
+    display: flex;
+    justify-content: center;
+}
+
+.link2 a{
+    background-color:rgba(255, 255, 255,0.0);
+    color: rgb(255, 255, 255);
+    height: 15x;
+    margin:auto;
+    padding: 1px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img3 {
+    background-color: rgba(255, 255, 255,0.0);        
+    padding:1px;
+    display: flex;
+    justify-content: center;
+}
+
+.link3 a{
+    background-color:rgba(255, 255, 255,0.0);
+    color: rgb(255, 255, 255);
+    height: 15x;
+    margin:auto;
+    padding: 1px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.storelinks{ 
+    display: flex;
+    justify-content: center;
+}
+
+.storecontainer {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    border: rgb(255, 255, 255) 2px solid;
+    border-radius: 20px;
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Cormorant SC', serif;
+}
+
+.p2img1 {
+    background-color: rgba(255, 255, 255,0.0);        
+    padding:1px;
+    margin:50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+    }
+
+.p2img2 {
+    background-color: rgba(255, 255, 255,0.0);        
+    padding:1px;
+    margin:50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+    }
+
+.p2img3 {
+    background-color: rgba(255, 255, 255,0.0);        
+    padding:1px;
+    margin:50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+    }
+
+.p2img4 {
+    background-color: rgba(255, 255, 255,0.0);        
+    padding:1px;
+    margin:50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+    }
+
+.p2img5 {
+    background-color: rgba(255, 255, 255,0.0);        
+    padding:1px;
+    margin:50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+    }
+
+.p3img1 {
+    background-color: rgba(255, 255, 255,0.0);        
+    padding:1px;
+    margin:30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+    }
+
+.p3img2 {
+    background-color: rgba(255, 255, 255,0.0);        
+    padding:1px;
+    margin:30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+    }
+
+.p3img3 {
+    background-color: rgba(255, 255, 255,0.0);        
+    padding:1px;
+    margin:30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+    }
+
+.p3img4 {
+    background-color: rgba(255, 255, 255,0.0);        
+    padding:1px;
+    margin:30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+    }
+
+.p4img1 {
+    background-color: rgba(255, 255, 255,0.0);        
+    padding:1px;
+    margin:30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+    }
+
+.p4img2 {
+    background-color: rgba(255, 255, 255,0.0);        
+    padding:1px;
+    margin:30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+    }
+
+.youtube-page1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.youtube-page2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.youtube-page3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+        
